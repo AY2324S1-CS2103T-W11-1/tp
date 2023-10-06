@@ -269,7 +269,7 @@ _{Explain here how the data archiving feature will be implemented}_
 
 **Target user profile**:
 
-* has a need to manage a sizeable number of employees' information 
+* has a need to manage a sizeable number of employees' information
 * prefer desktop apps over other types
 * can type fast
 * prefers typing to mouse interactions
@@ -326,10 +326,10 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 **MSS**
 
-1.  User requests to list employees 
-2.  AddressBook shows a list of employees 
+1.  User requests to list employees
+2.  AddressBook shows a list of employees
 3.  User requests to delete a specific employee in the list
-4.  AddressBook deletes the employee 
+4.  AddressBook deletes the employee
 
     Use case ends.
 

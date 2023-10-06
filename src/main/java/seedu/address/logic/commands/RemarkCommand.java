@@ -31,7 +31,7 @@ public class RemarkCommand extends Command {
     public static final String MESSAGE_ARGUMENTS = "Index: %1$d, Remark: %2$s";
 
     private final Index index;
-    
+
     private final Remark remark;
 
     /**
