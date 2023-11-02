@@ -128,6 +128,7 @@
         "locating-an-employee-in-hrmate-by-name-find": "Locating an employee in HRMate by name: find",
         "removing-an-employee-record-delete": "Removing an employee Record : delete",
         "restarting-hrmate-by-clearing-all-existing-records-clear": "Restarting HRMate by clearing all existing records : clear",
+        "editing-a-leave-record-edit-leave": "Editing a leave record: edit-leave",
         "closes-the-application-exit": "Closes the application : exit",
         "importing-exporting-employee-records": "Importing/Exporting employee records",
         "saving-the-data": "Saving the data",
