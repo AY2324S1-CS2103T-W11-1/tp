@@ -132,6 +132,8 @@
         "editing-a-leave-record-edit-leave": "Editing a leave record: edit-leave",
         "removing-a-leave-record-delete-leave": "Removing a leave record: delete-leave",
         "closes-the-application-exit": "Closes the application : exit",
+        "approve-leave-record-by-index-approve-leave": "Approve leave record by index: approve-leave",
+        "reject-leave-record-by-index-reject-leave": "Reject leave record by index: reject-leave",
         "find-leave-records-by-time-period-find-leave-range": "Find leave records by time period: find-leave-range",
         "find-leave-records-by-leave-status-find-leave-status": "Find leave records by leave status: find-leave-status",
         "view-all-leaves-find-all-leave": "View all leaves: find-all-leave",
