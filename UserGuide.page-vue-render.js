@@ -338,7 +338,7 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Acceptable Values:")]),_v("
 with(this){return _c('h3',{attrs:{"id":"importing-exporting-employee-records"}},[_v("Importing/Exporting employee records"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#importing-exporting-employee-records","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("With the import and export commands, HRMate can read and save files in "),_c('a',{attrs:{"href":"#Glossary"}},[_v("CSV")]),_v(" format, which is supported\nby major spreadsheet applications such as Microsoft Excel.")])}
+with(this){return _c('p',[_v("With the import and export commands, HRMate can read and save files in "),_c('a',{attrs:{"href":"#glossary"}},[_v("CSV")]),_v(" format, which is supported\nby major spreadsheet applications such as Microsoft Excel.")])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"importing-employee-records-import"}},[_v("Importing employee records : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("import")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#importing-employee-records-import","onclick":"event.stopPropagation()"}})])}
@@ -425,6 +425,6 @@ with(this){return _c('h2',{attrs:{"id":"glossary"}},[_v("Glossary"),_c('a',{stat
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Term")]),_v(" "),_c('th',[_v("Meaning")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_v("CSV")]),_v(" "),_c('td',[_v("A text file format that uses commas to separate values. It is supported by a wide range of software, including Microsoft Excel.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 7 Nov 2023, 17:05:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 8 Nov 2023, 15:39:02 GMT+8]")])])])}
 }];
   
