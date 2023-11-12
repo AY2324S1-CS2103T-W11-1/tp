@@ -24,7 +24,16 @@
 Refer to the guide [_Setting up and getting started_](SettingUp.md).
 
 --------------------------------------------------------------------------------------------------------------------
+## **Planned Enhancements**
+1. The current parser is case-sensitive. For example, `Delete` is not recognised as `delete` command. We plan to make the parse case-insensitive.
+2. The current status is case-sensitive. For example `pending` is not recognised as `PENDING` status. We plan to make the status case-insensitive.
+3. The current command result message of `add` command displays tags as empty when no tags are added. For example, `New employee added: John Doe; Phone: 98765432; Email: johnd@example.com; Address: John street, block 123, #01-0
+   ; Tags:`. We plan to show the users that no tags were specified.
+4. The current error message for index out of range `Invalid command format` is too general. We plan to make the error message more specific: `Index out of range`.
+5. The current leave allows concurrent leaves, meaning we allow date range of leaves overlapping as long as they are not exactly the same. We plan to prohibit concurrent leaves for better leave documentation.
 
+
+--------------------------------------------------------------------------------------------------------------------
 ## **Design**
 
 ### Architecture
