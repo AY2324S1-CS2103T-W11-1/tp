@@ -125,7 +125,7 @@
         "viewing-all-tags-view-tag": "Viewing All Tags: view-tag",
         "finding-employees": "Finding employees",
         "adding-a-new-leave": "Adding a new leave",
-        "editing-a-leave-record-edit-leave": "Editing a leave record: edit-leave",
+        "editing-the-title-start-date-end-date-description-or-status-of-employees-edit-leave": "Editing the title, start date, end date, description, or status of employees: edit-leave",
         "removing-a-leave-record-delete-leave": "Removing a leave record: delete-leave",
         "approve-leave-record-by-index-approve-leave": "Approve leave record by index: approve-leave",
         "reject-leave-record-by-index-reject-leave": "Reject leave record by index: reject-leave",
