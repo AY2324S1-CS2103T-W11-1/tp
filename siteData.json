@@ -54,7 +54,6 @@
         "import-file": "Import file",
         "export-feature": "Export feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "adding-tag-feature": "Adding tag feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -71,7 +70,8 @@
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data",
-        "data-integrity-between-person-and-leave": "Data integrity between Person and Leave"
+        "data-integrity-between-person-and-leave": "Data integrity between Person and Leave",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
